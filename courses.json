@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0",
+    "name": "Bootstrap",
+    "logo": "https://www.drupal.org/files/project-images/bootstrap-stack.png",
+    "details": "Build fast, responsive sites with Bootstrap Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.Get started any way you want : npm i bootstrap@5.2.2 CDN_LINK:css:https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css js:https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min. Bootstrap Icons:Free, high quality, open source icon library with over 1,600 icons. Include them anyway you like—SVGs, SVG sprite, or web fonts. Use them with or without Bootstrap in any project. need to install: npm i bootstrap-icons",
+    "link": "https://getbootstrap.com/"
+  },
+  {
+    "id": "1",
+    "name": "Tailwind",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
+    "details": "Rapidly build modern websites without ever leaving your HTML.A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.It's fast, flexible, and reliable — with zero-runtime.The simplest and fastest way to get up and running with Tailwind CSS from scratch is with the Tailwind CLI tool. The CLI is also available as a standalone executable if you want to use it without installing Node.js.step-1:Install Tailwind CSS Install tailwindcss via npm, and create your tailwind.config.js file. npm install -D tailwindcss px tailwindcss init......step:2::Configure your template paths dd the paths to all of your template files in your tailwind.config.js file.....html,js .Add the Tailwind directives to your CSS @tailwind base,tailwind components,@tailwind utilities .than you can run your projects",
+    "link": "https://tailwindcss.com/docs/installation"
+  },
+  {
+    "id": "2",
+    "name": "Firebase",
+    "logo": "https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png",
+    "details": "Make your app the best it can be Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.step-1:create a projects than go to docs ...If you're already using npm and a module bundler such as webpack or Rollup, you can run the following command to install the latest SDK:npm install firebase .Then, initialize Firebase and begin using the SDKs for the products you'd like to use. this code paste your projects create a file. Go to console than you can attentication youe projects . (i) Create user by email and passwors (ii) Provider login by Google Github Twitter Facebook Etc. (iii) Register or Sign Up your projects (iv)Login and Sign in (v) Sign Out (vi) forget password and reset password and many thinks can use and modifies your projects by firebase",
+    "link": "https://firebase.google.com/"
+  },
+  {
+    "id": "3",
+    "name": "Github",
+    "logo": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+    "details": "Welcome to your personal dashboard, where you can find an introduction to how GitHub works, tools to help you build software, and help merging your first lines of code. git hub is a grate place where you can find information about many kaind of projects . it is very easy to mak and store your code lacally. first you have to seach github.com in your pc browser. than login by your email. then Start a new repository: create a name for your repository at the same name your projeacts name. Some important comand line will be open . Open your terminl of this project. first comnd : git init, second, comand git add . which add your project in the github.git commit -m ('first commit').git branch -M main,git remote add origin https://github.com/mohammadkayumislam/.git push -u origin main  ",
+    "link": "https://github.com/"
+  },
+  {
+    "id": "4",
+    "name": "Components",
+    "logo": "https://miro.medium.com/max/1200/1*h744Voyjvy5s5JnmYRqpSw.png",
+    "details": "Web Components is a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps.The most popular, free and open-source Tailwind CSS component library : (i)daisyUI, (ii)TailBlock ,(iii) Merak Ui, (iv) Lofi UI, (v)Tailwind Components (vi)Tailwind Toolboxs..... You can also use Bootstrap components to customize ",
+    "link": "https://daisyui.com/,https://www.tailwindawesome.com/resources/lofi-ui,https://tailwindui.com/templates etc"
+  },
+  {
+    "id": "5",
+    "name": "Online learn Site",
+    "logo": "https://lh3.googleusercontent.com/cfVIec33OkyKNyqyVa_PQzz8XWlRSvWE89LlpW85gXxlVmWV03DEkjZFol7rieuO9r2E",
+    "details": "Web Components is a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated . W3 school is the best platform for learning programming. Mojila are also easy to learn program , You can learn and practice also . HTML,CSS, JAVA, JS,C,C++,Phython and Etc.",
+    "link": "https://www.w3schools.com/ and https://developer.mozilla.org/en-US/docs/Web/HTML"
+  }
+]
