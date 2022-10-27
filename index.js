@@ -19,10 +19,8 @@ app.get("/course/:id", (req, res) => {
   res.send(selectedItem);
 });
 
-// id select api
 app.listen(port, () => {
   console.log(` app listening on port ${port}`);
 });
 
-//  emport api
 module.exports = app;
