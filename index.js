@@ -9,10 +9,12 @@ app.get("/", (req, res) => {
   res.send("api running!");
 });
 
+//get api all topics
 app.get("/course", (req, res) => {
   res.send(course);
 });
 
+// get topics by id
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;
   const selectedItem = course.find((p) => p.id == id);
