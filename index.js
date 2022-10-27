@@ -9,7 +9,6 @@ app.get("/", (req, res) => {
   res.send("api running!");
 });
 
-// all course
 app.get("/course", (req, res) => {
   res.send(course);
 });
